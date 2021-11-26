@@ -1,0 +1,79 @@
+<style>
+	a:link {
+    color: lime;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:active {
+    color: yellow;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+    background-color: aqua;
+}
+
+input:focus, textarea:focus {
+    background: #eee;
+}
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;=
+        font-size: 2em;
+}
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px; 
+
+h2 {
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+p {
+    letter-spacing: 0.1em;
+    word-spacing: 0,5em;
+    line-height: 1.0;
+    text-align: left;
+}
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: black;
+    color: cyan;
+} 
+#top {
+    background-color: #ccc;
+    padding: 1em
+}
+
+#top h1 {
+    color: #ccc;
+}
+
+#top p {
+    color: magenta;
+    font-weight: bold; 
+</style>
